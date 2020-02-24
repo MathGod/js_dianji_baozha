@@ -1,0 +1,6 @@
+anime.min.js
+fireworks.js
+这两个是爆炸效果，是一起用的。
+爱心
+aixin.js
+是单独的
